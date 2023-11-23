@@ -190,4 +190,9 @@ article section {
   main aside {
     align-self: stretch;
   }
+
+  .dropdown-content {
+    left: -70px;
+    top: 30px;
+  }
 }
